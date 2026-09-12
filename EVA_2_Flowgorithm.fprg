@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_2_Flowgorithm"/>
+        <attribute name="authors" value="bisonte"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-03 06:18:04 p. m."/>
+        <attribute name="created" value="Ymlzb250ZTtERVNLVE9QLUhRMUtSOE47MjAyNi0wOS0wMzswNjowNTo0OSBwLiBtLjszMzEw"/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLUhRMUtSOE47MjAyNi0wOS0wMzswNjoxODowNCBwLiBtLjsxOzM0MTM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;hola mundo&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
